@@ -1,0 +1,17 @@
+## Last Week's Accomplishments
+
+> This week I started to learn a new game engine, godot, and a new programming language which is utilizaed in godot, GDscript.
+> Through this, I found that GDscript is very similar, almost identical, to python; but with elements of C#. I also found
+> that godot is just a slower unity game engine, and should not take more than a week to learn enough and start work.
+
+## This Week's Plan
+
+> Learn how to develop a game through godot and possibly start work on project development.
+
+## Anything Blocking?
+
+> Learning how to develop a game through godot
+
+## Notes
+
+> None
