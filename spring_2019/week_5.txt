@@ -1,0 +1,13 @@
+Week 5:
+
+## Last Week's Accomplishments
+> Started to learn how to develop a game through godot. This included learning how to program in godots platform and design a game through godot.
+
+## This Week's Plan
+> Continue reading on game development through godot and how to program in godot.
+
+## Anything Blocking?
+> Not much, it just takes time to learn a new game development platform. I have used Unity in the past but godot is very different.
+
+## Notes
+> None
