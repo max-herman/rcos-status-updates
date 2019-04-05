@@ -1,0 +1,13 @@
+Week 6:
+
+## Last Week's Accomplishments
+> Learned more on developing a game through godot, feel confident in my ability to program and create test games for the project.
+
+## This Week's Plan
+> We are no longer using the godot path, so now I have to start down a new work path. I may keep working on game development but now in Unity, or start working on the Networking part of the project.
+
+## Anything Blocking?
+> Disappointing I have to stop working on godot, but excited to learn a new topic to contribute to this project.
+
+## Notes
+> None
