@@ -1,0 +1,12 @@
+Week 8:
+## Last Week's Accomplishments
+> Started doing research on Networking for the development of a server. I was learning how to use TCP and UDP to create connections and take in data from a client network.
+
+## This Week's Plan
+> Build a usable server that can read input data from a client and then use said input data to make moves in a game.
+
+## Anything Blocking?
+> I have no experience with Networking so this is very difficult.
+
+## Notes
+> None
