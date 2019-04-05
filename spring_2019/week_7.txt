@@ -1,0 +1,15 @@
+Week 7:
+
+## Last Week's Accomplishments
+> Talked with the project manager and decided to start work on the networking side of the project. I will be developing a
+> server to connect to a client and take in data regarding player movements. This data will be translated to keybound inputs
+> and effectively give the user the ability to play computer games by using their phone as a controller.
+
+## This Week's Plan
+> I want to start researching Networking programming to develop a server. I am learning how to use TCP and UDP to create connections and take in data from a client network.
+
+## Anything Blocking?
+> Difficult to learn a new topic so fast, but it needs to get done.
+
+## Notes
+> None
