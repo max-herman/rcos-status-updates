@@ -1,0 +1,12 @@
+Week 9:
+## Last Week's Accomplishments
+> Started development for both servers and the binder. Had to do more research on TCP and UDP servers and the Robot library.
+
+## This Week's Plan
+> Fully develop both servers, TCP and UDP, and the binding program. I only need to finish implementing a few features and then debug.
+
+## Anything Blocking?
+> The robot library wouldnt let me use the keypress commands due to conflicts with linux, this made it difficult to test the program.
+
+## Notes
+> None
