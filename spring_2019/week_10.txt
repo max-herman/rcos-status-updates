@@ -1,0 +1,12 @@
+Week 10:
+## Last Week's Accomplishments
+> Fully develop both servers, TCP and UDP, and the binding program. I only need to finish implementing a few features and then debug.
+
+## This Week's Plan
+> Finish up debugging the servers and commenting code.
+
+## Anything Blocking?
+> Nothing
+
+## Notes
+> None
